@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Hamster burning worm comb",
+            "price": 35000,
+            "image": "pics/product1.jpg"
+        },
+        {
+            "name": "Hamster super yummy food",
+            "price": 28000,
+            "image": "pics/product2.jpg",
+            "id": 2
+        },
+        {
+            "name": "Hamster stress relief dried flowers",
+            "price": 20000,
+            "image": "pics/product3.jpg",
+            "id": 3
+        },
+        {
+            "name": "Hamster delicious milk balls",
+            "price": 30000,
+            "image": "pics/product4.jpg",
+            "id": 4
+        },
+        {
+            "name": "Hamster bear milk cake",
+            "price": 15000,
+            "image": "pics/product5.jpg",
+            "id": 5
+        },
+        {
+            "name": "Dried fruit for hamster",
+            "price": 22000,
+            "image": "pics/product6.jpg",
+            "id": 6
+        },
+        {
+            "name": "Rolled cow for hamster",
+            "price": 30000,
+            "image": "pics/product7.jpg",
+            "id": 7
+        },
+        {
+            "name": "Hamster flat block 20gr",
+            "price": 8000,
+            "image": "pics/product8.jpg",
+            "id": 8
+        },
+        {
+            "name": "Regular hamster blenders 500gr",
+            "price": 25000,
+            "image": "pics/product9.jpg",
+            "id": 9
+        },
+        {
+            "name": "Hamster cage pad press buddy sand",
+            "price": 30000,
+            "image": "pics/product10.jpg",
+            "id": 10
+        },
+        {
+            "name": "Bathroom for hamster",
+            "price": 25000,
+            "image": "pics/product11.jpg",
+            "id": 11
+        },
+        {
+            "name": "Cute hamster ceramic sleeping",
+            "price": 80000,
+            "image": "pics/product12.jpg",
+            "id": 12
+        },
+        {
+            "name": "Cute hamster ceramic sleeping",
+            "price": 80000,
+            "image": "pics/product13.jpg",
+            "id": 13
+        },
+        {
+            "name": "Hamster ceramic dinnerware Bowl",
+            "price": 25000,
+            "image": "pics/product14.jpg",
+            "id": 14
+        },
+        {
+            "name": "Bathroom for hamster",
+            "price": 25000,
+            "image": "pics/product15.jpg",
+            "id": 15
+        },
+        {
+            "name": "Cute hamster ceramic sleeping",
+            "price": 80000,
+            "image": "pics/product16.jpg",
+            "id": 16
+        },
+        {
+            "name": "Traction rope for hamster",
+            "price": 22500,
+            "image": "pics/product17.jpg",
+            "id": 17
+        },
+        {
+            "name": "Sawdust warm liner cage",
+            "price": 20000,
+            "image": "pics/product18.jpg",
+            "id": 18
+        }
+    ]
+}
